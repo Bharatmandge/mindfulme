@@ -1,0 +1,14 @@
+# FastAPI server + ASGI
+fastapi
+uvicorn[standard]
+
+# ML model handling
+scikit-learn
+joblib
+
+# API calls
+requests
+httpx
+
+# Env variables
+python-dotenv
