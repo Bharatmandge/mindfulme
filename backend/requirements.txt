@@ -12,3 +12,11 @@ httpx
 
 # Env variables
 python-dotenv
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+joblib
